@@ -173,7 +173,7 @@ footer div p{
 
 .div-sociais{
     left: 0;
-    margin-left: -400px;
+    margin-left: -590px;
     
 }
 
@@ -221,6 +221,7 @@ footer div p{
     }
     footer div p{
         color: white; 
+        text-align: center;
     }
 
     section{
