@@ -227,6 +227,12 @@ footer div p{
     section{
         overflow: auto;
     }
+
+    .div-sociais{
+        left: 0;
+        margin-left: -5px;
+        
+    }
   }
 
 
